@@ -1,3 +1,3 @@
-# Solutions for test tesks
+# Solutions for test tasks
 
 Pixonic - DataIngester
